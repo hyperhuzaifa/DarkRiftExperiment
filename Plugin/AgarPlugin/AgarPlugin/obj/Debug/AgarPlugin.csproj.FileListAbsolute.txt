@@ -1,0 +1,12 @@
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\bin\Debug\AgarPlugin.dll
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\bin\Debug\AgarPlugin.pdb
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.dll
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.Server.dll
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.pdb
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.xml
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.Server.pdb
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.Server.xml
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\obj\Debug\AgarPlugin.csproj.CopyComplete
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\obj\Debug\AgarPlugin.dll
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\obj\Debug\AgarPlugin.pdb
+C:\Users\Chris\source\repos\AgarPlugin\AgarPlugin\obj\Debug\AgarPlugin.csprojAssemblyReference.cache

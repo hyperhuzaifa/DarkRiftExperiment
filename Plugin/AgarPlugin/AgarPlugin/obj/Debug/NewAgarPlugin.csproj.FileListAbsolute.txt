@@ -1,0 +1,11 @@
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\obj\Debug\NewAgarPlugin.csprojAssemblyReference.cache
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\obj\Debug\NewAgarPlugin.csproj.CoreCompileInputs.cache
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.dll
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.Server.dll
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.xml
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\bin\Debug\DarkRift.Server.xml
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\obj\Debug\NewAgarPlugin.csproj.CopyComplete
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\bin\Debug\AgarPlugin.dll
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\bin\Debug\AgarPlugin.pdb
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\obj\Debug\AgarPlugin.dll
+D:\DarkriftNetworking\Plugin\AgarPlugin\AgarPlugin\obj\Debug\AgarPlugin.pdb

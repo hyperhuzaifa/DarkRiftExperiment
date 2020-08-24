@@ -1,0 +1,23 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 10.0.18362.0
+                                	CLS Version: 4.0.30319.17020
+                                	DarkRift: 2.7.0.0 - Free
+[Trace]   pluginFactory         Created plugin 'AgarFoodManager'.
+[Trace]   PluginManager         Plugin 'AgarFoodManager' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    PluginManager         Loaded plugin AgarFoodManager version 1.0.0
+[Trace]   pluginFactory         Created plugin 'AgarPlayerManager'.
+[Trace]   PluginManager         Plugin 'AgarPlayerManager' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    PluginManager         Loaded plugin AgarPlayerManager version 1.0.0
+[Trace]   pluginFactory         Created plugin 'CompatibilityBichannelListener'.
+[Trace]   HttpHealthCheck       HTTP health check started at 'http://localhost:10666/health'
+[Trace]   DefaultNetworkListener Starting compatibility listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:52540.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:62886.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:52540|127.0.0.1:62886].
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:52543.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59884.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:52543|127.0.0.1:59884].
+[Info]    ClientManager         Client [1] disconnected.
